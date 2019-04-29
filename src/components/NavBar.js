@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <div>
       <NavLink>
-      
+
     </div>
   );
 };
