@@ -18,7 +18,7 @@ const App = (props) => {
         <Route exact path="/movies" component={Movies} />
         <Route exact path="/directors" component={Directors} />
         <Route exact path="/actors" component={Actors} />
-      </>
+      </React.Fragment>
     </Router>
   );
 };
