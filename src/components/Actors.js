@@ -6,6 +6,7 @@ const Actors = () => {
     <div>
       <h1>Actors Page</h1>
       <div>
+        
       </div>
     </div>
   );
